@@ -68,7 +68,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina Windows as s
 
    - com o Git:
 
-     $ git clone https://github.com/JuuhDias94/sistema-cadastro-anuncios.git
+     $ git clone https://github.com/JuuhDias94/gerenciamento-de-anuncios.git
 
    - ou baixe o repositório usando a opção "Download ZIP"
 
