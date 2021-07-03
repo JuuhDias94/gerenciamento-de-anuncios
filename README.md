@@ -1,6 +1,6 @@
-# Sistema de cadastro de anúncio
+# Sistema para gerenciamento de anúncios
 
-Sistema que permite o cadastro de anúncio. O anúncio deverá conter os seguintes dados:
+Sistema que permite o gerenciamento de anúncios online. Cada anúncio deverá conter os seguintes dados:
 
 - nome do anúncio
 
